@@ -153,3 +153,6 @@ virtual-env
 bird_or_not
 images
 test
+
+kaggle.json
+data
